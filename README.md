@@ -124,7 +124,7 @@ This project can be deployed easily on:
 
 B.Tech Information Technology | IET DAVV Indore
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/tech-nitin
 
 ---
 
