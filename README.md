@@ -43,6 +43,8 @@ expense-tracker/
 ```
 
 ## 📸 Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14ce1a15-5054-402b-b679-ad20d9779f9f" />
+
 
 ### Dashboard includes:
 
