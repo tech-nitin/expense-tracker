@@ -60,7 +60,7 @@ expense-tracker/
 ### Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
+git clone https://github.com/tech-nitin/expense-tracker.git
 ```
 
 ### Open project folder
